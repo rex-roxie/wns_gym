@@ -15,7 +15,6 @@ function Login() {
             console.log("SUCCESS!");
             navigate('/home');
           });
-
     }
 
   return (
